@@ -39,6 +39,18 @@ git clone https://github.com/kashiiitech/FinancialConsultancy
 
 ---
 
-**You can also follow the steps given in the above Youtube Video**
+**You can also follow the steps given in the above YouTube video**
+
+---
+
+## Contact Information
+
+If you have any questions, suggestions, or issues, feel free to reach out to me. We value your feedback and are here to help.
+
+- Project Maintainer: **Kashif Ali**
+- Email: kashiiitech@gmail.com
+---
+
+**You can also open an issue in this repository if you encounter any problems or want to request a new feature.**
 
 ---
