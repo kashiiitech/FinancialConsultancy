@@ -18,3 +18,21 @@ Video Link: https://youtu.be/-5BuScqfHzk
 4. Commit and push
 5. Wait for pull request to be merged
 
+## Installation
+
+This is a static web application, Which means you only need a browser to navigate the website.
+
+### Prerequisites
+
+- A web browser of your choice (e.g., Google Chrome, Mozilla Firefox).
+
+**1. Clone the Repository:**
+```
+git clone https://github.com/kashiiitech/FinancialConsultancy
+```
+
+**2. Start Website:**
+
+1. Open your web browser.
+
+2. Navigate to the project's index.html file:
