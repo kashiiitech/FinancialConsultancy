@@ -16,7 +16,7 @@ Video Link: https://youtu.be/-5BuScqfHzk
 2. Clone the forked repository
 3. Add your contributions (code or documentation)
 4. Commit and push
-5. Wait for pull request to be merged
+5. Wait for the pull request to be merged
 
 ## Installation
 
@@ -36,3 +36,9 @@ git clone https://github.com/kashiiitech/FinancialConsultancy
 1. Open your web browser.
 
 2. Navigate to the project's index.html file:
+
+---
+
+**You can also follow the steps given in the above Youtube Video**
+
+---
