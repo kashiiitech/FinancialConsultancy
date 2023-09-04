@@ -7,6 +7,10 @@ I've built a Financial Consultancy website using HTML, CSS, and JavaScript for s
 
 Check out the live project [here](https://main--amazing-muffin-2a2122.netlify.app/).
 
+## Demo video
+
+Video Link: https://youtu.be/-5BuScqfHzk
+
 ## Instructions
 1. Fork this repository
 2. Clone the forked repository
