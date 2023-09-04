@@ -7,6 +7,8 @@ I've built a Financial Consultancy website using HTML, CSS, and JavaScript for s
 
 Check out the live project [here](https://main--amazing-muffin-2a2122.netlify.app/).
 
+Deployed on Netlify[https://www.netlify.com/]
+
 ## Demo video
 
 Video Link: https://youtu.be/-5BuScqfHzk
